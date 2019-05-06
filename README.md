@@ -9,7 +9,8 @@ Code thô được lượm 'tùm lum' trên internet. Được sửa lại bởi
 Ps lời nhắn của tác giả:
 Mình học Kiến Trúc nên thật sự ko biết lập trình, mình chỉ cop code từ nhiều nơi lại và thử sai liên tục cho đến một ngày...bụp...con bot này có thể chạy được và đấy mình gọi là lập trình!
 
-CÁCH TẠO
+CÁCH DÙNG
+
 Bước 1 : Đăng nhập vào tài khoản Google của bạn
 
 Bước 2 : Login gmail và truy cập https://script.google.com/ tạo 1 script mới.
