@@ -17,6 +17,6 @@ Bước 2 : Login gmail và truy cập https://script.google.com/ tạo 1 script
 Bước 3 : Copy nội dung code https://github.com/TrinhKhuong1997DHKienTruc/Facebook-AI-SmartBot/blob/master/Facebook%20AI%20SmartBot
 vào trong script.
 
-Bước 4 : Nhấn vào icon đồng hồ (Các kích hoạt của dự án hiện tại) cài đặt giờ khởi động mỗi lần từ 30-60 phút.
+Bước 4 : Nhấn vào icon đồng hồ (Các kích hoạt của dự án hiện tại) cài đặt thời gian khởi động mỗi lần từ 30-60 phút.
 
 Bước 5 : Khởi chạy
