@@ -1,5 +1,5 @@
 # Facebook AI SmartBot
-Bot autolike Facebook có ứng dụng AI dành cho giới doanh nhân cần chú trọng tương tác
+Bot autolike Facebook có ứng dụng AI dành cho giới doanh nhân cần chú trọng tương tác.
 Ứng dụng AI ở đây là tự động like bài viết theo khoảng thời gian ko cố định như người thật. Cũng như tự động refesh token cho đến khi nick bị block like (nếu các bạn hẹn giờ auto quá nhanh) hoặc cho đến khi các bạn tắt AI bot mới thôi.
 Code sạch. No scam. No hack nick
 
