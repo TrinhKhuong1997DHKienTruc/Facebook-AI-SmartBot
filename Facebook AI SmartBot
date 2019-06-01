@@ -12,13 +12,13 @@ function casper_like(token){
   fql = "https://api.facebook.com/method/fql.query?query="+fql+"&limit=10&format=json&temp="+Math.floor(Math.random()*1000000)+"&access_token=";
   if(token&&token!=""){
     var me = get_cr_url("https://graph.facebook.com/v2.3/me?access_token="+token+"&temp="+Math.floor(Math.random()*1000000));
-    var randnumber = Math.random()*100000;
+    var randnumber = Math.random()*95000;
     if(me&&me.id){
       fql = get_cr_url(fql+token);
       Utilities.sleep(randnumber);
       if(fql&&fql.length!=0){
         var hit = 0;
-        var randnumber = Math.random()*100000;
+        var randnumber = Math.random()*950000;
         for(x in fql){
            //if(fql[x].type==46 || fql[x].type==247){
           Utilities.sleep(randnumber);
