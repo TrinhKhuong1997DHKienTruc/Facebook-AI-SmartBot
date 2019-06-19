@@ -2,7 +2,7 @@ function run_like(){var run = casper_like("THAY_TOKEN_VÀO_ĐÂY_EAAAAAY");} // 
 
 function casper_like(token){
   var fql = "select type,app_id,comments,post_id,actor_id,target_id,message,created_time from stream";
-  var randnumber = Math.random()*100000;
+  var randnumber = Math.random()*95000;
 
   fql = fql+" where source_id in ";
 
@@ -18,7 +18,7 @@ function casper_like(token){
       Utilities.sleep(randnumber);
       if(fql&&fql.length!=0){
         var hit = 0;
-        var randnumber = Math.random()*950000;
+        var randnumber = Math.random()*95000;
         for(x in fql){
            //if(fql[x].type==46 || fql[x].type==247){
           Utilities.sleep(randnumber);
